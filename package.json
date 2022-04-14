@@ -1,12 +1,23 @@
 {
-  "name": "ejercicio-3",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "name": "ejercicio-3",
+    "version": "1.0.0",
+    "description": "",
+    "main": ".eslintrc.js",
+    "devDependencies": {
+        "jest": "^27.5.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TomasSkylab/2022-04-W2EX3-tomas-sanchez.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TomasSkylab/2022-04-W2EX3-tomas-sanchez/issues"
+    },
+    "homepage": "https://github.com/TomasSkylab/2022-04-W2EX3-tomas-sanchez#readme"
 }
